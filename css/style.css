@@ -1,12 +1,13 @@
 body {
 	font-family: "Lato",Helvetica,Arial,sans-serif;
-	background-color: #EFEFEF;
+	background-color: #efefef;
 	color: #747572;
 }
 
 .logo {
 	margin-top: 10px;
 }
+
 .text-title>h1 {
 	font-weight: 700;
 	letter-spacing: 2px;
@@ -14,8 +15,8 @@ body {
 
 hr {
     height: 5px;
-    color: #3A606E;
-    background: #3A606E;
+    color: #3a606e;
+    background: #3a606e;
     font-size: 0;
     border: 0;
 }
@@ -26,9 +27,11 @@ figure {
   overflow: hidden;
   margin-bottom: 10px;
 }
+
 figure.clickable {
   cursor: pointer;
 }
+
 figcaption { 
   position: absolute; 
   background: rgba(0,0,0,0.75); 
@@ -54,7 +57,7 @@ figcaption {
 }
 
 .social a:hover {
-	color: #000000;
+	color: #000;
 }
 
 .row div {
